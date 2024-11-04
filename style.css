@@ -9,8 +9,13 @@ h3{
 .titulo-1{
 color: aqua;
 text-align: left;
+background-color: beige;
+margin: 20px;
+padding: 20px;
+
 }
 .titulo-2{
     color: cyan;
     text-align: center;
+
 }
